@@ -15,12 +15,13 @@ The goal is to build a strong foundation and gradually move towards advanced top
 
 ## 🎯 Current Focus  
 
-📍 Python Basics  
-- Variables & Data Types  
-- Conditional Statements  
-- Loops  
-- Functions  
-- Basic Problem Solving  
+📍 Numpy  
+- Array  
+- Types of Array  
+- Array Creation  
+- Array Operations  
+- Random Number Generation
+- File I/O 
 
 ---
 
