@@ -30,4 +30,5 @@ The goal is to build a strong foundation and gradually move towards advanced top
 ```bash
 📦 daily-python-data-lab
  ┣ 📂 01_python_basics
+ ┣ 📂 02_numpy
  ┗ 📜 README.md
