@@ -20,8 +20,16 @@ The goal is to build a strong foundation and gradually move towards advanced top
 - Types of Array  
 - Array Creation  
 - Array Operations  
-- Random Number Generation
-- File I/O 
+- Random Number Generation  
+- File I/O  
+
+📍 Pandas *(Currently Learning)*  
+- Series & DataFrame  
+- Reading CSV Files  
+- Data Cleaning  
+- Data Filtering & Selection  
+- GroupBy Operations  
+- Handling Missing Data  
 
 ---
 
@@ -31,4 +39,6 @@ The goal is to build a strong foundation and gradually move towards advanced top
 📦 daily-python-data-lab
  ┣ 📂 01_python_basics
  ┣ 📂 02_numpy
+ ┣ 📂 03_pandas
+ ┃ ┣ 📂 CSV_Files
  ┗ 📜 README.md
