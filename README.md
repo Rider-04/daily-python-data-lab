@@ -35,6 +35,7 @@ The goal is to build a strong foundation and gradually move towards advanced top
 
 ## 📂 Repository Structure  
 
+
 ```bash
 📦 daily-python-data-lab
  ┣ 📂 01_python_basics
