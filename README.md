@@ -80,6 +80,8 @@ Instead of only learning theory, I focus on **building**, **experimenting**, and
 ┣ 📂 03_pandas
 ┃ ┗ 📂 CSV_Files
 ┣ 📂 04_machine_learning
+┃ ┗ 📂 Regression
+┃ ┗ 📂 Classification
 ┣ 📜 README.md
 ```
 
