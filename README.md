@@ -67,6 +67,7 @@ Instead of only learning theory, I focus on **building**, **experimenting**, and
 - Scikit-Learn
 - Performance Metrics
 - Real-world ML Projects
+- Support Vector Machine 
 
 ---
 
